@@ -1,5 +1,4 @@
 const inputsController = document.querySelector('.js-inputController');
-const inputLabel = document.querySelector('.js-label');
 
 const billInput = document.querySelector('.js-billInput');
 const peopleInput = document.querySelector('.js-peopleInput');
@@ -17,6 +16,7 @@ const resetButton = document.querySelector('.btn-reset');
 inputsController.addEventListener('click', e => {
 
     const targetType = e.target.getAttribute('type');
+    console.log(e.target);
 
     // We get the number of the input without "%" and in Integer
     if(targetType === 'radio') {
@@ -24,8 +24,6 @@ inputsController.addEventListener('click', e => {
         const tipNum = parseInt(childTip.innerHTML.slice(0, -1), 10);
         calculateTotal(tipNum / 100);
     } else if(targetType === 'number') {
-        console.log("hi");
-
         // Uncheck all other inputs
         clearAllInputs();
 

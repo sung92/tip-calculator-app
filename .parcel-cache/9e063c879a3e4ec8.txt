@@ -13,7 +13,7 @@
 171C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@parcel\runtime-js\src\helpers\worker133490494616437529 1
 172C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\css-tree\cjs\syntax\node\Condition.cjs133490494591350551 0
 174C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@parcel\profiler\lib\SamplingProfiler.js133490494588199125 0
-125C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist133492446959246011 1
+125C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist133492462655953864 1
 183C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133490494612598788 0
 176C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\helpers\_\_class_apply_descriptor_get133490494621414893 1
 216C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.js133490494588159088 0
@@ -4602,7 +4602,7 @@
 157C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\types\package.json133490494582978007 0
 176C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\helpers\_\_class_private_field_update133490494622170894 1
 154C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\types\README.md133490494585712268 0
-147C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\index.4de9b498.js.map133492446959236007 0
+147C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\index.4de9b498.js.map133492462655943849 0
 150C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\helpers\cjs133490494614349932 1
 154C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\helpers\LICENSE133490494580529151 0
 159C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\@swc\helpers\package.json133490494627241434 0
@@ -6067,10 +6067,10 @@
 147C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\.bin\svgo.cmd133490494651559245 0
 147C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\.bin\svgo.ps1133490494651559245 0
 165C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\node_modules\.bin\update-browserslist-db.cmd133490494651559245 0
-133C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\js\script.js133492446959087171 0
+133C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\js\script.js133492462655755738 0
 143C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\images\icon-dollar.svg133490493515531284 0
 143C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\images\icon-person.svg133490493515691740 0
-143C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\index.4de9b498.js133492446959222432 0
+143C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\index.4de9b498.js133492462655930994 0
 136C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\index.html133492440937715799 0
 173C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\tip-calculator-app-main.3464ddca.js.map.13508.9133490703673761317 0
 173C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\5. tip-calculator-app\tip-calculator-app-main\tip-calculator-app-main\dist\tip-calculator-app-main.3464ddca.js.map.17384.9133490717784512886 0
