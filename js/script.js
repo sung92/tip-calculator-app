@@ -16,7 +16,6 @@ const resetButton = document.querySelector('.btn-reset');
 inputsController.addEventListener('click', e => {
 
     const targetType = e.target.getAttribute('type');
-    console.log(e.target);
 
     // We get the number of the input without "%" and in Integer
     if(targetType === 'radio') {

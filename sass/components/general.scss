@@ -100,6 +100,7 @@ input[type="radio"], input[type="number"] {
     width: 100%;
     background-color: var(--color-verydark-cyan);
     border-radius: f.rem(10px);
+    appearance: none;
     -webkit-appearance: none;
     margin: 0;
 }
