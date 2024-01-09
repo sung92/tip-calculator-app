@@ -1,0 +1,15 @@
+{
+  "name": "tip-calculator-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Sung Jin Cho",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "parcel": "^2.11.0"
+  }
+}
