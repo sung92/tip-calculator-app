@@ -232,6 +232,13 @@ input[type="radio"]:checked ~ span {
     color: var(--color-verydark-cyan);
     background-color: var(--color-strng-cyan);
     border-radius: f.rem(6px);
+    cursor: pointer;
+
+    transition: all 0.3s;
+
+    &:hover {
+        background-color: #9FE8DF;
+    }
 }
 
 // Desktop
